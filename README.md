@@ -4,9 +4,9 @@ This repository contains the simulation codes and numerical analysis associated 
 
 The project develops:
 
-A generalized measurement strategy where the probabilities of incorrect and inconclusive outcomes are optimally balanced.
+- A generalized measurement strategy where the probabilities of incorrect and inconclusive outcomes are optimally balanced.
 
-A flexible QKD protocol (phiQKD) that adapts to channel parameters by tuning the measurement angle ϕ.
+- A flexible QKD protocol (phiQKD) that adapts to channel parameters by tuning the measurement angle ϕ.
 
 Simulations for error rates, sifted key rates, and secure key rates under various noise and channel conditions.
 
