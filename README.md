@@ -11,5 +11,5 @@ A flexible QKD protocol (phiQKD) that adapts to channel parameters by tuning the
 Simulations for error rates, sifted key rates, and secure key rates under various noise and channel conditions.
 
 Paper:
-The full theoretical framework and results are presented in our arXiv preprint:
+The full theoretical framework and results are presented in our arXiv preprint: 
 [Generalized State Discrimination for Tunable Quantum Key Distribution: The phiQKD Protocol](https://arxiv.org/abs/2511.06488)
